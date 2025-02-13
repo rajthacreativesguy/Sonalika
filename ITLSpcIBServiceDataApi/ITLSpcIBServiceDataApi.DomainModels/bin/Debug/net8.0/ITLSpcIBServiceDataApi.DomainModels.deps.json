@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITLSpcIBServiceDataApi.DomainModels/1.0.0": {
+        "runtime": {
+          "ITLSpcIBServiceDataApi.DomainModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITLSpcIBServiceDataApi.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

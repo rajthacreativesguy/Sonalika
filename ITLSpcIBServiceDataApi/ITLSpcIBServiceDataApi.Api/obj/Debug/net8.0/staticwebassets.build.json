@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7Wg7t0NGgRLoSAAU2V0MwdrXYC467HX2YldSM674NLc=",
+  "Source": "ITLSpcIBServiceDataApi.Api",
+  "BasePath": "_content/ITLSpcIBServiceDataApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

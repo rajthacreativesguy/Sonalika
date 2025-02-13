@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A40AC22-F2EB-45AC-849E-E16B5211993A}|ITLSpcIBServiceDataApi.Api\\ITLSpcIBServiceDataApi.Api.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A40AC22-F2EB-45AC-849E-E16B5211993A}|ITLSpcIBServiceDataApi.Api\\ITLSpcIBServiceDataApi.Api.csproj|solutionrelative:itlspcibservicedataapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\implementations\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\implementations\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A40AC22-F2EB-45AC-849E-E16B5211993A}|ITLSpcIBServiceDataApi.Api\\ITLSpcIBServiceDataApi.Api.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.api\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A40AC22-F2EB-45AC-849E-E16B5211993A}|ITLSpcIBServiceDataApi.Api\\ITLSpcIBServiceDataApi.Api.csproj|solutionrelative:itlspcibservicedataapi.api\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|solutionrelative:itlspcibservicedataapi.services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.services\\interfaces\\isampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|solutionrelative:itlspcibservicedataapi.services\\interfaces\\isampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.services\\itlspcibservicedataapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B7C025C-B966-4EC8-B270-2F09D649C710}|ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj|solutionrelative:itlspcibservicedataapi.services\\itlspcibservicedataapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\ibservicedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\ibservicedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\itlspcibservicedataapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\itlspcibservicedataapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedataapi.data\\repositories\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C827B-DA58-42EF-8979-81D6CD4B3554}|ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj|solutionrelative:itlspcibservicedataapi.data\\repositories\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\itlspcibservicedata.servicebase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\itlspcibservicedata.servicebase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\implementations\\servicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\implementations\\servicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\interfaces\\iservicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\interfaces\\iservicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|c:\\sonalika\\itlspcibservicedataapi\\itlspcibservicedata.servicebase\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1EFFA0-F7E9-4D74-A3EB-470B643FFDBD}|ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj|solutionrelative:itlspcibservicedata.servicebase\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Api\\Program.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Api\\Program.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Api\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:24:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISampleService.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\Interfaces\\ISampleService.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Services\\Interfaces\\ISampleService.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\Interfaces\\ISampleService.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Services\\Interfaces\\ISampleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:20:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITLSpcIBServiceDataApi.Services.csproj",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Services\\ITLSpcIBServiceDataApi.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T20:19:29.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleService.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\Implementations\\SampleService.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Services\\Implementations\\SampleService.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Services\\Implementations\\SampleService.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Services\\Implementations\\SampleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:19:07.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:11:23.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:10:20.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBase.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBase.cs",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:24:51.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Api\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Api\\Controllers\\SampleController.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Api\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Api\\Controllers\\SampleController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:27:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:54:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\Repositories\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\Repositories\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\Repositories\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\Repositories\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:48:07.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITLSpcIBServiceDataApi.Data.csproj",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\ITLSpcIBServiceDataApi.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T01:38:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBServiceDataContext.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\IBServiceDataContext.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceDataApi.Data\\IBServiceDataContext.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceDataApi.Data\\IBServiceDataContext.cs",
+              "RelativeToolTip": "ITLSpcIBServiceDataApi.Data\\IBServiceDataContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:39:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITLSpcIBServiceData.ServiceBase.csproj",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\ITLSpcIBServiceData.ServiceBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T01:22:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceBaseAsync.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:23:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceBaseAsync.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:23:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Response.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\Response.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Response.cs",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:22:52.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "ToolTip": "C:\\Sonalika\\ITLSpcIBServiceDataApi\\ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "RelativeToolTip": "ITLSpcIBServiceData.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T01:22:32.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

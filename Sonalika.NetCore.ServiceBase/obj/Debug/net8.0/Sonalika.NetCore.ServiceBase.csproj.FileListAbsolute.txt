@@ -1,0 +1,12 @@
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.csproj.AssemblyReference.cache
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.AssemblyInfoInputs.cache
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.AssemblyInfo.cs
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.csproj.CoreCompileInputs.cache
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\bin\Debug\net8.0\Sonalika.NetCore.ServiceBase.deps.json
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\bin\Debug\net8.0\Sonalika.NetCore.ServiceBase.dll
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\bin\Debug\net8.0\Sonalika.NetCore.ServiceBase.pdb
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.dll
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\refint\Sonalika.NetCore.ServiceBase.dll
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\Sonalika.NetCore.ServiceBase.pdb
+C:\Users\rajan\source\repos\Sonalika.NetCore.ServiceBase\obj\Debug\net8.0\ref\Sonalika.NetCore.ServiceBase.dll

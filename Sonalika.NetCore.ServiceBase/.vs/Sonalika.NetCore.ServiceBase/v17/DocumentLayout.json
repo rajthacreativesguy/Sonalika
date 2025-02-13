@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|c:\\users\\rajan\\source\\repos\\sonalika.netcore.servicebase\\implementations\\servicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|solutionrelative:implementations\\servicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|c:\\users\\rajan\\source\\repos\\sonalika.netcore.servicebase\\interfaces\\iservicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|solutionrelative:interfaces\\iservicebaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|c:\\users\\rajan\\source\\repos\\sonalika.netcore.servicebase\\implementations\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|solutionrelative:implementations\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|c:\\users\\rajan\\source\\repos\\sonalika.netcore.servicebase\\interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|solutionrelative:interfaces\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|c:\\users\\rajan\\source\\repos\\sonalika.netcore.servicebase\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7ECC7B-8F09-4B36-8105-E482C0DE2B1A}|Sonalika.NetCore.ServiceBase.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceBaseAsync.cs",
+              "DocumentMoniker": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "RelativeDocumentMoniker": "Implementations\\ServiceBaseAsync.cs",
+              "ToolTip": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Implementations\\ServiceBaseAsync.cs",
+              "RelativeToolTip": "Implementations\\ServiceBaseAsync.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:38:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceBaseAsync.cs",
+              "DocumentMoniker": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServiceBaseAsync.cs",
+              "ToolTip": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Interfaces\\IServiceBaseAsync.cs",
+              "RelativeToolTip": "Interfaces\\IServiceBaseAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:31:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Implementations\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Implementations\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Implementations\\ServiceBase.cs",
+              "RelativeToolTip": "Implementations\\ServiceBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:15:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Response.cs",
+              "RelativeDocumentMoniker": "Response.cs",
+              "ToolTip": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Response.cs",
+              "RelativeToolTip": "Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:12:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\rajan\\source\\repos\\Sonalika.NetCore.ServiceBase\\Interfaces\\IServiceBase.cs",
+              "RelativeToolTip": "Interfaces\\IServiceBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:07:11.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
