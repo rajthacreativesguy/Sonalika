@@ -5,3 +5,11 @@ body {
     background-color: #eee;
     font-family: Mada, sans-serif;
 }
+
+.card-header-main{
+    background-color: #043A54;
+}
+.card-header-sub{
+    background-color: #043A54;
+    padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+}

@@ -31,3 +31,12 @@
       display: block;
     }
   }
+
+  .nav-item-link{
+    color: #ffffff !important;
+    text-decoration: none;
+  }
+
+  .nav-bar1{
+    background-color: #043A54;
+  }
