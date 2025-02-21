@@ -2,7 +2,7 @@
     <div class="col-sm-1">
     </div>
     <div class="col-sm-5" style="padding: 50px;" >
-        <a (mousedown)="onMouseEnter(true)" (mouseup)="onMouseEnter(false)">
+        <a (mouseup)="onMouseEnter(!showHide)" (mouseout)="onMouseEnter(false)">
             <div class="card bg-dark text-white">
                 <img src="/sonalika-tractor.webp" class="card-img"   alt="Sonalika" />
                 <div class="card-img-overlay">
