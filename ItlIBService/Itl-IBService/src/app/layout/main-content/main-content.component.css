@@ -1,0 +1,11 @@
+.series-sub-title{
+    margin-top: 20px;
+}
+
+.series-sub-title-text{
+    border-bottom: 1px solid #043A54;
+    padding: 5px;
+    color: #043A54;
+    font-size: 20px;
+    font-weight: bold;
+}
